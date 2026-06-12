@@ -1,4 +1,5 @@
-<img width="1284" height="734" alt="image" src="https://github.com/user-attachments/assets/c747f73d-a3cd-45b2-a170-a9acc0de74f7" />
+<img width="1920" height="1080" alt="Thumbnail - Dashboard Adidas" src="https://github.com/user-attachments/assets/c50ca254-ed8b-430f-869f-2146dc1b8dac" />
+
 
 Adidas US Sales Dashboard
 
